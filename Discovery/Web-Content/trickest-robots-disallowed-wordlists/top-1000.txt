@@ -387,7 +387,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /*/projects
 /*/pulse
 /*/schemes
-/*/search-results.htmlhttp://wunderground.com/robots.txt
+/*/search-results.htmlhttp://x.com/robots.txt
 /*/stargazers
 /*/structures
 /*/tables
@@ -1568,7 +1568,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /newssearch
 /nextpodcastlist
 /nightly-news
-/no-referrer-when-downgradehttp://globalnews.ca/robots.txt
+/no-referrer-when-downgradehttp://globesimregistrations.ph/robots.txt
 /no-search-results
 /node
 /node/add
@@ -4188,7 +4188,6 @@ TestingTravelMaps
 Themes/Client/app/img/favicons/manifest.json
 ThirdPartyRedirect
 ThorHammer
-TodayOJ
 TodaysLowestFaresAjax
 Tr/SocialMediaActivity/LogJSWidgetLinkClick
 Tracker?data=*
@@ -4631,6 +4630,8 @@ about/careers/applications/jobs/results?*&page=
 about/careers/applications/jobs/results?page=
 about/faq/station-finder/?state-text=
 about/faq/station-finder/?zip-text=
+about/leadership-university-administration/board-of-trustees/newsletter
+about/news-publications/news/search
 about/team_member
 about?
 aboutus
@@ -4897,6 +4898,8 @@ admin?context=
 administration
 administrator
 adminusers
+admissions/undergraduate-admissions
+admissions/undergraduate-admissions.html
 adobe/dynamicmedia/deliver/
 adredir?
 adresa-segmentator
@@ -5075,6 +5078,7 @@ alphafoldserver
 als/shakespeare_pilot
 alumni
 alumni-subscriptions
+alumni/the-hub
 am-cookie-helper
 am-sonntag/vorproduktion
 am/$
@@ -5340,7 +5344,10 @@ archive$
 archive.php?archive=*
 archive.php?view=all
 archive/api/image.jpg
+archive/article
+archive/find
 archive/graphs.php
+archive/page
 archive/project/sovsport$
 archived
 archived$
@@ -6076,7 +6083,7 @@ blog/*?text=
 blog/*sitemap.xml$
 blog/*utm_source=
 blog/.*
-blog/.html.*http://samsung.com/robots.txt
+blog/.html.*http://safety.google/robots.txt
 blog/10-lessons-from-an-engineering-manager/$
 blog/2025-shifting-roles-report/$
 blog/23-prototyping-resources-to-bookmark-right-now/$
@@ -6981,6 +6988,7 @@ build
 build.xml
 builders
 bundle-next
+bursar
 bus/api
 bus/orders
 buscar
@@ -7736,7 +7744,6 @@ ch_it/Download
 challenge
 challenges
 challenges$
-change-displayed-metadata
 change-email
 change-password
 change-shipping
@@ -11391,6 +11398,12 @@ demo/$
 demonstration
 demos/dev-mode-design/$
 demos/dev-mode-developers/$
+dental/dh
+dental/endo
+dental/histo
+dental/intranet
+dental/perio
+dental/students
 denver
 design
 design-handoff/$
@@ -11660,7 +11673,6 @@ docs/search_results.html
 docs/socialmarkup
 doctor-strange
 document
-document-format.html
 document/comments
 document/create
 document/delete
@@ -11715,7 +11727,6 @@ doubleclick
 downgrade
 download
 download-evernote
-download-notice
 download/*/Zoom_launcher.exe
 download/*/zoomusLauncher.zip
 download/get
@@ -11916,7 +11927,6 @@ element/?
 element/commun/afficher
 element_properties.
 elements
-eli-search
 eliminar-busqueda
 eliminar-favoritos
 elite?
@@ -12763,7 +12773,6 @@ error/403
 error/404
 error/500
 error/PageNotFound.htm
-error/authentication-required.html
 error404.aspx
 error_204
 errorpages
@@ -13867,7 +13876,6 @@ experiences/*?*modal
 experiences/*?*scheduled_id
 experiment
 experiments.xml
-expert-search-form
 experts-arena
 experts/search
 experts/search?
@@ -13875,7 +13883,6 @@ explore
 explore/*/?p=
 explore/*/lightbox
 explore/search
-export-documents
 export/
 export/sites/intranet/
 export/sites/upov/shared/
@@ -13936,8 +13943,6 @@ facebook-template
 facebook/templates
 facebook_connect
 factory
-fallback
-false/select-store-cookies.html
 family-validation
 family_filter
 familylink-earlyaccess
@@ -13951,6 +13956,7 @@ faq
 faq_search.php
 fashion/lookbook/38917
 fashion/search/models
+fast-facts
 fast-five
 fast-furious
 fastajax
@@ -13960,7 +13966,7 @@ fastajax/order/tax/validatevat
 fastanswers
 fatalerror.html
 faves-i_love_u_get_away_from_me
-favicon.icohttp://blog.cloudflare.com/robots.txt
+favicon.icohttp://blog.google/robots.txt
 favorit-hinzufuegen
 favorit-loeschen
 favorites?
@@ -15964,7 +15970,7 @@ forum/members
 forum/online
 forum/posts
 forum/search
-forum/ucp.phphttp://embassybel.ru/robots.txt
+forum/ucp.phphttp://en.m.wikipedia.org/robots.txt
 forum/viewtopic.php
 forum/whats-new
 forumTeaser
@@ -17464,7 +17470,7 @@ health/*/wp-
 health/QA-Tabbed-ManyTabs-21
 health/drugs/hm-test-all-about-humira
 health/drugs/ozempic-for-weight-loss
-health/files/rhpthttp://inc.com/robots.txt
+health/files/rhpthttp://indeed.com/robots.txt
 health/hm-test-17-proven-tips-to-sleep-better-at-night
 health/hm-test-feature-template-for-sponsorship
 health/mirgraine-headaches
@@ -17742,7 +17748,7 @@ html5
 http
 http-checker
 http2_data
-http://2.bp.blogspot.com/robots.txt
+http://3.bp.blogspot.com/robots.txt
 http://akparti.org.tr/robots.txt
 http://aliexpress.com/robots.txt
 http://amazon.co.jp/robots.txt
@@ -17759,7 +17765,7 @@ http://bbc.com/robots.txt
 http://bbcsfx.acropolis.org.uk/robots.txt
 http://chrome.google.com/robots.txt
 http://creativecommons.org/robots.txt
-http://en.m.wikipedia.org/robots.txt
+http://elegantthemes.com/robots.txt
 http://expedia.com/robots.txt
 http://gist.github.com/robots.txt
 http://govostis.gr/robots.txt
@@ -20002,54 +20008,6 @@ leerberichten
 legal
 legal-b2b
 legal-contact-us
-legal-content/BG/TXT/DOC
-legal-content/BG/TXT/SIG
-legal-content/CS/TXT/DOC
-legal-content/CS/TXT/SIG
-legal-content/DA/TXT/DOC
-legal-content/DA/TXT/SIG
-legal-content/DE/TXT/DOC
-legal-content/DE/TXT/SIG
-legal-content/EL/TXT/DOC
-legal-content/EL/TXT/SIG
-legal-content/EN/TXT/DOC
-legal-content/EN/TXT/SIG
-legal-content/ES/TXT/DOC
-legal-content/ES/TXT/SIG
-legal-content/ET/TXT/DOC
-legal-content/ET/TXT/SIG
-legal-content/FI/TXT/DOC
-legal-content/FI/TXT/SIG
-legal-content/FR/TXT/DOC
-legal-content/FR/TXT/SIG
-legal-content/GA/TXT/DOC
-legal-content/GA/TXT/SIG
-legal-content/HR/TXT/DOC
-legal-content/HR/TXT/SIG
-legal-content/HU/TXT/DOC
-legal-content/HU/TXT/SIG
-legal-content/IT/TXT/DOC
-legal-content/IT/TXT/SIG
-legal-content/LT/TXT/DOC
-legal-content/LT/TXT/SIG
-legal-content/LV/TXT/DOC
-legal-content/LV/TXT/SIG
-legal-content/MT/TXT/DOC
-legal-content/MT/TXT/SIG
-legal-content/NL/TXT/DOC
-legal-content/NL/TXT/SIG
-legal-content/PL/TXT/DOC
-legal-content/PL/TXT/SIG
-legal-content/PT/TXT/DOC
-legal-content/PT/TXT/SIG
-legal-content/RO/TXT/DOC
-legal-content/RO/TXT/SIG
-legal-content/SK/TXT/DOC
-legal-content/SK/TXT/SIG
-legal-content/SL/TXT/DOC
-legal-content/SL/TXT/SIG
-legal-content/SV/TXT/DOC
-legal-content/SV/TXT/SIG
 legal/$
 legal/3874403/
 legal/ai-terms/$
@@ -20799,7 +20757,6 @@ mod
 mod.php
 mod=
 mod?
-modal-message
 modal_active=
 models
 models/*/ar-redirect
@@ -20839,6 +20796,7 @@ moments_app
 mone$
 mone_event
 mone_v2
+money
 money/blueprint/archive
 money/blueprint/transfer?pname=
 money/homefront
@@ -21037,7 +20995,6 @@ my
 my-MM/$
 my-account
 my-agent/eligibility
-my-eurlex
 my-library
 my-library
 my-list-shows
@@ -21702,6 +21659,7 @@ nwshp$
 nxs-video-player
 nymag/columns/intelligencer/features/16951
 nymag/letters/14872
+nyucard/campuscash/admin
 nz
 nz$
 nz*/listing/*/favoriters
@@ -22852,7 +22810,6 @@ preferences/
 preferences/manage-cookies
 prefetch
 prefs
-prelex
 premium$
 premium-reports
 premium/
@@ -22917,7 +22874,6 @@ pricing/payment
 pricing/pro
 primeshow
 print
-print-pdf
 printView=
 printable/pdf
 printer_friendly_story
@@ -23121,7 +23077,6 @@ proplayer
 props/
 proredir?
 prospective-students/undergraduate-redesign
-protected
 proto
 protocol
 protocolexchange/labgroups
@@ -23669,6 +23624,7 @@ public-api
 public-data-sets/applicants/
 public-data-sets/terms/
 public-profile
+public.affairs/gata
 public.api
 public/*.css$
 public/*.css?
@@ -24343,6 +24299,8 @@ reservations/*/notifyme
 reset
 reset-password
 reset?
+residential.education/archive
+residential.education/templates
 resource
 resource-library/$
 resource-library/*?
@@ -24925,8 +24883,6 @@ sap/saphana/pilot/offer/confirmation
 sars-cov-2
 savannah-checkouts
 save
-save-document
-save-query
 save/save-agency-search-tool
 save/save-agency-search-tool/export
 savedhomes
@@ -25140,7 +25096,6 @@ search*start=
 search-ads-360
 search-ar-dev
 search-console/scfe
-search-effectiveness.html
 search-results
 search-webglimps
 search.html
@@ -25336,6 +25291,7 @@ server/banners
 server/body-include
 server/bottom-notes
 server/check-olark-chat-support
+server/docs/search
 server/footer
 server/fs-gang
 server/generic
@@ -26011,7 +25967,6 @@ slp/*/b$
 slp/s$
 smart/button
 smart/buttons
-smartapi
 smartmarket
 smartmarket/*/productListInitial.action?
 smbe/
@@ -26757,6 +26712,7 @@ surveys-360
 surveys/
 suspended_tickets
 suspension-appeal
+sustainability
 sutils
 sv-SE/$
 sv-SE/android/collections
@@ -27849,7 +27805,6 @@ trips/v1
 trivia/answer
 trk
 trouver
-true/select-store-cookies.html
 trust.php
 trustedstores/images
 trustedstores/js
@@ -27865,6 +27820,11 @@ try-search-term
 try?
 trylater
 tsa
+tto/archive/article
+tto/archive/find
+tto/archive/frame/article
+tto/archive/page
+tto/news
 tucritica
 tune*retpath=
 turbo
@@ -28569,7 +28529,7 @@ uxtest/ux/
 uy
 uy/es/ServicesLandingPage/AdvisoryLanding/RPA/Robotic_Process%20Automation_insert.pdf
 uy/help
-uz/http://billboard.com/robots.txt
+uz/http://bilgematics.com/robots.txt
 v
 v$
 v/badge
@@ -28803,6 +28763,8 @@ w/load.php?
 w/rest.php/site/v1/sitemap
 w/users/user_hints
 w3
+wagner/newsite
+wagner/newsiteTEST
 wai-conformance-model-test
 walking-tall
 walkscore
@@ -29727,6 +29689,7 @@ workinmoms
 workplace/nic/
 workshop/
 workspace
+world
 worldclock/astronomy.html?*year=
 worldclock/clockchange.html?
 worldclock/clockchange.html?*year=2022
