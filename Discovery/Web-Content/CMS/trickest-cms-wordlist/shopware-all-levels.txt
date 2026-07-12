@@ -122571,6 +122571,15 @@ Renderer/_snapshots/credit_note_renderer_default/snapshot.html
 _snapshots/credit_note_renderer_default/snapshot.html
 credit_note_renderer_default/snapshot.html
 snapshot.html
+tests/integration/Core/Checkout/Document/Renderer/_snapshots/zugferd_credit_note_document_default_v6_8/snapshot.xml
+integration/Core/Checkout/Document/Renderer/_snapshots/zugferd_credit_note_document_default_v6_8/snapshot.xml
+Core/Checkout/Document/Renderer/_snapshots/zugferd_credit_note_document_default_v6_8/snapshot.xml
+Checkout/Document/Renderer/_snapshots/zugferd_credit_note_document_default_v6_8/snapshot.xml
+Document/Renderer/_snapshots/zugferd_credit_note_document_default_v6_8/snapshot.xml
+Renderer/_snapshots/zugferd_credit_note_document_default_v6_8/snapshot.xml
+_snapshots/zugferd_credit_note_document_default_v6_8/snapshot.xml
+zugferd_credit_note_document_default_v6_8/snapshot.xml
+snapshot.xml
 tests/integration/Core/Checkout/Document/Renderer/_snapshots/invoice_renderer_default/snapshot.html
 integration/Core/Checkout/Document/Renderer/_snapshots/invoice_renderer_default/snapshot.html
 Core/Checkout/Document/Renderer/_snapshots/invoice_renderer_default/snapshot.html
